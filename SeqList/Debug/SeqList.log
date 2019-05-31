@@ -1,0 +1,8 @@
+﻿  SeqList.cpp
+c:\users\15597\source\vs-workspace\seqlist\seqlist\seqlist.cpp(165): warning C4244: “初始化”: 从“time_t”转换到“float”，可能丢失数据
+c:\users\15597\source\vs-workspace\seqlist\seqlist\seqlist.cpp(174): warning C4244: “初始化”: 从“time_t”转换到“float”，可能丢失数据
+c:\users\15597\source\vs-workspace\seqlist\seqlist\seqlist.cpp(183): warning C4244: “初始化”: 从“time_t”转换到“float”，可能丢失数据
+c:\users\15597\source\vs-workspace\seqlist\seqlist\seqlist.cpp(192): warning C4244: “初始化”: 从“time_t”转换到“float”，可能丢失数据
+c:\users\15597\source\vs-workspace\seqlist\seqlist\seqlist.cpp(201): warning C4244: “初始化”: 从“time_t”转换到“float”，可能丢失数据
+c:\users\15597\source\vs-workspace\seqlist\seqlist\seqlist.cpp(155): warning C4101: “index”: 未引用的局部变量
+  SeqList.vcxproj -> C:\Users\15597\source\vs-workspace\SeqList\Debug\SeqList.exe
